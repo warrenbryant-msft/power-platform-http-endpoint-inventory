@@ -1,0 +1,23 @@
+# Generated endpoint reports
+*.csv
+*.errors.csv
+reports/
+output/
+
+# Canvas app packages and extracted source
+*.msapp
+*_src/
+extracted-app/
+canvas-source/
+
+# PAC and local diagnostics
+pac-log.txt
+*.log
+
+# Test and coverage output
+TestResults/
+coverage.xml
+
+# PowerShell and editor artifacts
+*.clixml
+.vscode/
